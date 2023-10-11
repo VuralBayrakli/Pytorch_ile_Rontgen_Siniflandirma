@@ -12,7 +12,12 @@ Projeyi `git` ile yükleme
   git clone https://github.com/VuralBayrakli/Pytorch_ile_Rontgen_Siniflandirma.git
 ```
     
-## Screenshots
+## Modeller
 
 ![App Screenshot](https://github.com/VuralBayrakli/Pytorch_ile_Rontgen_Siniflandirma/blob/master/screenshots/ss1.png)
 
+![App Screenshot](https://github.com/VuralBayrakli/Pytorch_ile_Rontgen_Siniflandirma/blob/master/screenshots/ss2.png)
+
+![App Screenshot](https://github.com/VuralBayrakli/Pytorch_ile_Rontgen_Siniflandirma/blob/master/screenshots/ss3.png)
+
+![App Screenshot](https://github.com/VuralBayrakli/Pytorch_ile_Rontgen_Siniflandirma/blob/master/screenshots/ss4.png)
