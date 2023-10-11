@@ -14,5 +14,5 @@ Projeyi `git` ile yükleme
     
 ## Screenshots
 
-![App Screenshot]([https://github.com/VuralBayrakli/Laptop_Price_Predictor/blob/master/screenshots/ss1.png](https://github.com/VuralBayrakli/Pytorch_ile_Rontgen_Siniflandirma/blob/master/screenshots/ss1.png)https://github.com/VuralBayrakli/Pytorch_ile_Rontgen_Siniflandirma/blob/master/screenshots/ss1.png)
+![App Screenshot](https://github.com/VuralBayrakli/Pytorch_ile_Rontgen_Siniflandirma/blob/master/screenshots/ss1.png)
 
